@@ -1,5 +1,5 @@
 import useCustomEffect from './useCustomEffect'
-import isEqual from 'lodash/isEqual'
+import isEqual from 'react-fast-compare'
 import useImmediateUpdateEffect from './useImmediateUpdateEffect'
 import useEventCallback from './useEventCallback'
 
